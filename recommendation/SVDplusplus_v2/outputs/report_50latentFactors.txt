@@ -1,0 +1,1 @@
+Adopted 50 Latent factors, iteration 14 times, RMSE is: 1.0371369531894936, MAE:0.7835229506214866, precision: 0, recall: 0, avg time per epoch: 196.08925047942571s
